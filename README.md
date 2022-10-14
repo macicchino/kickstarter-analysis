@@ -23,11 +23,11 @@ Generally, lower funding goals for plays appear to be more successful than plays
 ![Outcomes_vs_Goals](Outcomes_vs_Goals.png "Outcomes_vs_Goals")
 
 Description of Chart:
-    From $0 to $14,999 more plays were successful than failures
-    From $15,000 to $19,999 half of the plays were successful. 
-    From $20,000 to $34,999 more plays were failures than successful.
-    From $35,000 to $44,999 more plays were successful than failures
-    From $45,000 and above, more plays were failures than successful.
+    * From $0 to $14,999 more plays were successful than failures
+    * From $15,000 to $19,999 half of the plays were successful. 
+    * From $20,000 to $34,999 more plays were failures than successful.
+    * From $35,000 to $44,999 more plays were successful than failures
+    * From $45,000 and above, more plays were failures than successful.
 
 ### Challenges and Difficulties Encountered
 
