@@ -23,11 +23,11 @@ Generally, lower funding goals for plays appear to be more successful than plays
 ![Outcomes_vs_Goals](Outcomes_vs_Goals.png "Outcomes_vs_Goals")
 
 Description of Chart:
-    * From $0 to $14,999 more plays were successful than failures
-    * From $15,000 to $19,999 half of the plays were successful. 
-    * From $20,000 to $34,999 more plays were failures than successful.
-    * From $35,000 to $44,999 more plays were successful than failures
-    * From $45,000 and above, more plays were failures than successful.
+- From $0 to $14,999 more plays were successful than failures
+- From $15,000 to $19,999 half of the plays were successful. 
+- From $20,000 to $34,999 more plays were failures than successful.
+- From $35,000 to $44,999 more plays were successful than failures
+- From $45,000 and above, more plays were failures than successful.
 
 ### Challenges and Difficulties Encountered
 
@@ -42,16 +42,16 @@ https://support.microsoft.com/en-us/office/calculation-operators-and-precedence-
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
     
-    May would be a good month for a launch date in theaters. December would be the worst month to have a launch date for theaters. 
+   * May would be a good month for a launch date in theaters. December would be the worst month to have a launch date for theaters. 
 
 - What can you conclude about the Outcomes based on Goals?
 
-    Any campaigns for plays with over a $40,000 goal of funding have a low success rate. Campaigns for plays with under a $5,000 goal of funding have a high success rate.
+   * Any campaigns for plays with over a $40,000 goal of funding have a low success rate. Campaigns for plays with under a $5,000 goal of funding have a high success rate.
 
 - What are some limitations of this dataset?
 
-    The data covers a 10 years time period but only up until Q1 of 2017. This data may no longer be indicative of current trends in the past 5 years, especially in the Post-Covid environment. 
+   * The data covers a 10 years time period but only up until Q1 of 2017. This data may no longer be indicative of current trends in the past 5 years, especially in the Post-Covid environment. 
 
 - What are some other possible tables and/or graphs that we could create?
 
-    I would like to replicate the Outcomes based on Launch Date Analysis for Theaters using the Parent Category 'Film & Video'. I suspect I would find a similar trend where the summer months are the best times to Launch 'Film & Video' campaigns. I also would create a chart to compare funding across parent categories to understand which catagroies recieve the most or least funding.
+   * I would like to replicate the Outcomes based on Launch Date Analysis for Theaters using the Parent Category 'Film & Video'. I suspect I would find a similar trend where the summer months are the best times to Launch 'Film & Video' campaigns. I also would create a chart to compare funding across parent categories to understand which catagroies recieve the most or least funding.
